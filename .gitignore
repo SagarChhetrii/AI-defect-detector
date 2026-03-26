@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# ML/Training
+casting_data/
+models/
+runs/
+*.pt
+yolov8n.pt
+yolov8n-cls.pt
+
+# Logs
+*.log
+training_results/
+
+# OS
+.DS_Store
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+.pytest_cache/

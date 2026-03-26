@@ -1,0 +1,41 @@
+{
+  "ok_count": 6,
+  "defect_count": 1,
+  "history": [
+    {
+      "timestamp": "2026-03-24 15:42:34",
+      "class": "ok_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:42:37",
+      "class": "ok_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:42:49",
+      "class": "def_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:42:50",
+      "class": "ok_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:52:56",
+      "class": "ok_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:53:00",
+      "class": "ok_front",
+      "confidence": 1.0
+    },
+    {
+      "timestamp": "2026-03-24 15:53:03",
+      "class": "ok_front",
+      "confidence": 1.0
+    }
+  ]
+}
